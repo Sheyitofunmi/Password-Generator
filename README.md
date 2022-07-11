@@ -1,4 +1,6 @@
-# co98d45b9a860ce8ae869eb9e
+# password Generator
+I built it from scratch, it generate two random passwors when the user clicks the button.
+The usser can specifyt the passsword length which ranges from 6-20 
 
 ## About Scrimba
 
